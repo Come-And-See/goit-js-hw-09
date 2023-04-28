@@ -21,7 +21,6 @@ const options = {
 
 let dateUser;
 
-
 flatpickr('#datetime-picker', options);
 
 const refs = {
